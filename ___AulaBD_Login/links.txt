@@ -1,0 +1,4 @@
+
+-- Configuração para envio de E-Mail pelo XAMPP - Localhost:
+
+https://qastack.com.br/programming/15965376/how-to-configure-xampp-to-send-mail-from-localhost

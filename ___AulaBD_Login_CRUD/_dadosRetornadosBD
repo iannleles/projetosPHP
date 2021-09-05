@@ -1,0 +1,20 @@
+mysqli_result Object (
+    [current_field] => 0 
+    [field_count]   => 4 
+    [lengths]       => 
+    [num_rows]      => 2 
+    [type]          => 0 
+) 
+Array (
+        [0] => 1                                [id_tblusuario] => 1 
+        [1] => Antonio                          [nome_tblusuario] => Antonio 
+        [2] => aas@hotmail.com.br               [email_tblusuario] => aas@hotmail.com.br 
+        [3] => 202cb962ac59075b964b07152d234b70 [senha_tblusuario] => 202cb962ac59075b964b07152d234b70 
+) 
+Array (
+        [0] => 2                                [id_tblusuario] => 2 
+        [1] => Santos                           [nome_tblusuario] => Santos 
+        [2] => santos@adm.com.br                [email_tblusuario] => santos@adm.com.br 
+        [3] => 202cb962ac59075b964b07152d234b70 [senha_tblusuario] => 202cb962ac59075b964b07152d234b70 
+)
+

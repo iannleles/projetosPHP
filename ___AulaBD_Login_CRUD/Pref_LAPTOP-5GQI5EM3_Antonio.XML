@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<links>
+    <favorito>
+        <titulo>Linkdedin AAS</titulo>
+        <descricao>Membro ANPPD® | Professor Mestre TI | Trasmontano Saúde | Sócio ViaClient | Cofounder SMIT</descricao>
+        <link>https://www.linkedin.com/in/antonio-andrade-santos/</link>
+    </favorito>
+    <favorito>
+        <titulo>Thor</titulo>
+        <descricao>Thor é um filme de super-herói americano de 2011, baseado no personagem homônimo da Marvel Comics, produzido pela Marvel Studios e distribuído pela Paramount Pictures.1</descricao>
+        <link>https://pt.wikipedia.org/wiki/Thor_(filme)</link>
+    </favorito>
+    <favorito>
+        <titulo>Mulher-Maravilha</titulo>
+        <descricao>Wonder Woman (no Brasil e em Portugal, Mulher-Maravilha) é um filme americano de super-herói de 2017, baseado na personagem homônima da DC Comics e distribuído pela Warner Bros. Pictures.</descricao>
+        <link>https://pt.wikipedia.org/wiki/Mulher-Maravilha_(filme)</link>
+    </favorito>
+</links>
